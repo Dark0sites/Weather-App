@@ -1,2 +1,3 @@
 # Weather-App
-Open-source code.
+This is a weather app made in react and completely open-source.
+
